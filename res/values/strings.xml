@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Credr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_query">Enter Query</string>
+    <string name="ime_search">Search</string>
+    <string name="show_list_view">List</string>
+    <string name="show_grid_view">Gird</string>
+    <string name="search">Search</string>
+    <string name="go">Go</string>
+    <string name="ok">OK</string>
+    <string name="nwerror">No Network</string>
+    <string name="error_msg">No Network ! Please enable mobile data or wifi.</string>
+    <string name="no_data">No Data</string>
+    <string name="loading">Fetching Data.....</string>
+    <string name="title_activity_product_search">Flipkart Search</string>
+   	<string name="query_fetching_results">Fetching Results</string>
+   	<string name="query_parsing_results">Parsing Results</string>
+   	<string name="query_success">Query Success</string>
+   	
+   	
+    
+
+</resources>

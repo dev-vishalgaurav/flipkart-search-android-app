@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="title_size_grid">15sp</dimen>
+    <dimen name="image_detail_view_size">300dip</dimen>
+    <dimen name="image_view_width">60dp</dimen>
+    <dimen name="image_view_height">60dp</dimen>
+    <dimen name="image_view_margin_right">8dp</dimen>
+    <dimen name="search_button_padding">5dp</dimen>
+
+</resources>

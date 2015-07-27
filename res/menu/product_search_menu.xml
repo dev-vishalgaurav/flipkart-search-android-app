@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.credr.productsearch.ProductSearchActivity" >
+
+    <item
+        android:id="@+id/menu_list"
+        android:icon="@null"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/show_list_view"/>
+    <item
+        android:id="@+id/menu_grid"
+        android:icon="@null"
+        android:orderInCategory="101"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/show_grid_view"/>
+
+</menu>
